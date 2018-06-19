@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FFIOpaqueObject",
+	"category" : "LibSerialPort",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SP_Port_Config",
+	"type" : "normal"
+}

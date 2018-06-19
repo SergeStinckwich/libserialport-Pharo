@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "FFILibrary",
+	"category" : "LibSerialPort",
+	"classinstvars" : [
+		"current"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SerialPortCAPI",
+	"type" : "normal"
+}

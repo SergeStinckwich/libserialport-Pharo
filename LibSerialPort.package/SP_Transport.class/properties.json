@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "FFIExternalEnumeration",
+	"category" : "LibSerialPort",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"SP_TRANSPORT_BLUETOOTH",
+		"SP_TRANSPORT_NATIVE",
+		"SP_TRANSPORT_USB"
+	],
+	"instvars" : [ ],
+	"name" : "SP_Transport",
+	"type" : "normal"
+}

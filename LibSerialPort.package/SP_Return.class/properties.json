@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "FFIExternalEnumeration",
+	"category" : "LibSerialPort",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"SP_ERR_ARG",
+		"SP_ERR_FAIL",
+		"SP_ERR_MEM",
+		"SP_ERR_SUPP",
+		"SP_OK"
+	],
+	"instvars" : [ ],
+	"name" : "SP_Return",
+	"type" : "normal"
+}
